@@ -1,2 +1,2 @@
-# Automated-Car-Rental-Data-Pipeline-using-Batch-Processing-and-SCD2-Implementation-in-Snowflake
+# Automated Car Rental Data Pipeline using Batch Processing and SCD2 Implementation in Snowflake
 This project builds an automated data pipeline for car rentals using batch processing and Snowflake. It includes creating dimension tables and an SCD2 merge for customer data. PySpark handles transformations and data loading, while Airflow orchestrates the process, ensuring efficient and scalable data management in Snowflake.
